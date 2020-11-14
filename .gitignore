@@ -1,0 +1,12 @@
+# API Key
+api_key.json
+
+# VS Code
+.vscode/
+.vscode/settings.json
+
+# Downloads folder
+downloads/
+
+# Search config
+config.json
